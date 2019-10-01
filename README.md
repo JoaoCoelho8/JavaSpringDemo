@@ -1,2 +1,2 @@
-# demotest
+# JavaSpringDemo
 "Software Engineering" course worksheet
